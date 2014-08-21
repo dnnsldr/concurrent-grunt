@@ -1,7 +1,7 @@
 module.exports = {
     
     dist: {
-        src: ['assets/css/less/*.less'],
-        dest: 'assets/css/main.css'
+        src: ['path-to-less-folder/*.less'], //source file
+        dest: 'path-to-css-folder/main.css'  //destination file
     }  
 };

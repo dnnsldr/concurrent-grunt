@@ -1,7 +1,7 @@
 module.exports = {
     dist: {
     	files: {
-    		'dist/build.min.js': ['dist/build.js']
+    		'path-to-destination-folder/build.min.js': ['path-to-destination-folder/build.js'] //output and input paths
     	}
     }
 };
