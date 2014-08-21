@@ -1,0 +1,25 @@
+{
+  "name": "my-cool-site",
+  "version": "0.1.0",
+  "description": "A test site for learning how to use grunt",
+  "author": "Dennis Elder <delder@riester.com>",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "*",
+    "grunt-concat-sourcemap": "*",
+    "grunt-concurrent": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "^0.11.3",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-newer": "*",
+    "load-grunt-config": "*"
+  },
+  "dependencies": {
+    "time-grunt": "*"
+  }
+}
